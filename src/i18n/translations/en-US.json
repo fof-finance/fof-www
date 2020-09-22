@@ -1,0 +1,65 @@
+{
+  "vault": {
+    "vaultEarning": "Earning",
+    "vaultBalance": "pToken Balance",
+    "availableDeposit": "Deposited",
+    "deposit": "Deposit",
+    "withdraw": "Withdraw",
+    "depositAll": "Deposit All",
+    "withdrawAll": "Withdraw All",
+    "balance": "Balance",
+    "yourEarningRate": "Earning"
+  },
+  "stake": {
+    "title": "YFII-创新型去中心化defi矿池",
+    "subtitle": "Pool2抵押方式与Balancer使用说明",
+    "wallet": "Wallet",
+    "yourBalance": "您的余额",
+    "currentlyStaked": "当前抵押",
+    "halfTime": "减半时间",
+    "rewardsAvailable": "已获得奖励",
+    "yCRVRewardRequirements": "yCRV 奖励要求",
+    "youMustHaveVoted": "You must have voted in a proposal recently",
+    "youMustHave": "您必须在治理池中抵押至少 1000 个 BPT。",
+    "stakeTokens": "Stake",
+    "claimRewards": "Claim rewards",
+    "unstakeTokens": "Unstake",
+    "exit": "Exit: Claim and unstake",
+    "unstakingTokens": "仅当您的所有投票关闭后，方可取消抵押代币。这些投票在区块：",
+    "stakeYourTokens": "抵押您的代币",
+    "stake": "Stake",
+    "stakeAll": "Stake All",
+    "unstakeYourTokens": "将您的代币取消抵押",
+    "unstake": "Unstake",
+    "unstakeAll": "Unstake All",
+    "pluWarning": "PLU Reward Requirements:",
+    "pluWarning1": "1. You must have voted in a proposal recently. ",
+    "pluWarning2": "2. You must have at least 1000 BPT staked in POOL 2"
+  },
+  "snackbar": {
+    "success": "成功",
+    "error": "错误",
+    "warning": "警告",
+    "info": "信息",
+    "hash": "哈希",
+    "close": "关闭",
+    "view": "查看"
+  },
+  "menu": {
+    "connect": "connect wallet",
+    "vault": "Vault",
+    "small vault": "Open Vault",
+    "stake": "Stake",
+    "admin": "Vote",
+    "tool": "Tool",
+    "vote": "Forum",
+    "audit": "Audit"
+  },
+  "home":{
+    "connect": "connect wallet",
+    "welcome to plouto": "Welcome to PLOUTO",
+    "info": "现在是时候链接您的钱包并使用我们的资产管理服务了",
+    "use": "或在不链接钱包下使用",
+    "prompt": "免责声明：钱包由外部提供商提供，选择您同意这些提供商的条款即可。您对钱包的访问可能依赖于外部提供商的运营情况。"
+  }
+}
